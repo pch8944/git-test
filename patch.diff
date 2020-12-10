@@ -1,0 +1,8 @@
+diff --git a/like.md b/like.md
+index e2e77ec..bb787c8 100644
+--- a/like.md
++++ b/like.md
+@@ -1,2 +1,3 @@
+ like feature
+ dislike feature
++it's mine feature
